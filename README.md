@@ -1,4 +1,4 @@
-## 🔍 KQL Threat Hunting Investigations
+## KQL Threat Hunting Investigations
 Below are detailed write-ups of my investigations into various simulated cyber attacks. Each module includes a breakdown of the attack chain, the KQL queries used to hunt the adversary, and a MITRE ATT&CK mapping of the observed techniques.
 
 | Investigation | Scenario & Threat Actor | Core Techniques Investigated | Write-up |
